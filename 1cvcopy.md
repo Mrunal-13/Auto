@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <table>
+      <tr>
+        <th><img src="C:\Users\lenovo\Desktop\web development\sir cv\profile.jpg"></th>
+        <title>Ravindra kawle personal site</title>
+        <th><h1 style="color: blue">Ravindra Kawle</h1>
+        <p><em>President of <b>Dyanodaya Bahudeshya shikshan sanstha</b></em></p>
+        <p>Educatioin consultant and TGT</p>
+         <p>public speaker</p></th>
+      </tr>
+    <br>
+    </table>
+  </head>
+  <body>
+    <hr>
+    <h2>Contact Details</h2>
+    <p>Chandrapur, Maharashtra</p>
+    <p style="color : blue">ravimkawale18@gmail.com</p>
+    <p><b>You tube channel : <a href="https://www.youtube.com/channel/UCizaXoFUcvcqtJmlRAg5uSg">click here</a></b></p>
+    <hr>
+    <h2>About</h2>
+    <p><i>Quest to work in a professional environment, which will enable me to develop my         potentiality and
+efficiency, also to meet the challenges and excel in the field, where I can fully utilize my skills and
+      knowledge.</i> </p>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+      <li size="3">S.S.C. Nagpur Mar 2005 62.40% </li>
+      <br>
+      <li size="3">H.S.C. Nagpur Feb 2007 84.33%</li><br>
+      <li size="3">B.A (ELT.) Nashik May 2012 58.00% </li><br>
+      <li size="3">D.Ed Pune Sept 2009 81.66% </li><br>
+      <li size="3">B.Ed Gond. Gadchiroli July 2013 66.29% </li><br>
+      <li size="3">B.Com. ( English) I&II Nashik May 2016 67.16% </li><br>
+      <li size="3">M.A. ( English) Pursuing Gond.Gadchiroli </li><br>
+      <li size="3">Typing (Eng.) Pune May 2014 85.00%  </li><br>
+      <li size="3">Typing (Mar.) Pune May 2014 79.00% </li><br>
+      
+      
+    </ul>
+    
+    <h3>Computer litracy</h3>
+    <ul>
+      <li>MS-CIT</li>
+      <li>PCTT</li>
+    </ul>
+    <br>  
+    <h2>Experience</h2>
+    <p><i style="color: blue">more than 12 years</i></p>
+    <ul>
+      <li>TGT English</li>
+<li>St. Michael's English CBSE school - Chandrapur, Maharashtra
+  2009 to Present</li>
+      <li><h3>Achievements</h3></li>
+      <li>English Pre.Intermediate Exam.Pune.</li>
+      <li> Maths.Subodh Exam. Pune</li>
+      <li> Sports Activities Certificates</li>
+      <li> Cultural Activities <i style="color: red">anchoring and a great  host</i></li>
+      <li> Music 1st and 2nd</li>
+      <li>Intermediate Drawing</li>
+      <li>Tabla 1st</li>
+      <li>Training And Seminor Attended</li>
+      
+    </ul>
+    <h3>Personal skills & competencies </h3>
+    <ul>
+      <li>Excellent Communication ⭐⭐⭐⭐⭐</li>
+      <li> To face problem in any difficulties ⭐⭐⭐⭐</li>
+       <li>To give an Elocution, To sing a song To do an Anchoring and To do an Acting ⭐⭐⭐⭐⭐</li>
+      
+    </ul>
+    <h3>Personal Strength </h3>
+    <ul><li> Positive Attitude⭐⭐⭐⭐⭐</li> 
+      <li> Strong Work Culture ⭐⭐⭐</li>
+      <li>Hard work persistent nature with high operational efficiency⭐⭐⭐⭐⭐</li>
+    </ul>
+    <h3>Proficiencies in Languages</h3>
+    <ol>
+      <li>English⭐⭐⭐⭐⭐</li>
+      <li>Hindi⭐⭐⭐⭐⭐</li>
+      <li>marathi⭐⭐⭐⭐⭐</li>
+    </ol>
+
+    <hr>
+    <h2>Ask me !</h2>
+    <p>you can ask me or contact me and give your valuable feedback here <a href="C:\Users\lenovo\Desktop\web development\sir cv\2cv.html" >click here</a></p>
+    <hr>
+    <h3>Photo Gallery</h3>
+    <p>wait for uploads</p>
+  </body>
+    
+</html>
